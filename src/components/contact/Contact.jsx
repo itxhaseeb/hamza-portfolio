@@ -11,17 +11,17 @@ const addressData = [
   {
     icon: faLocationDot,
     title: "Address",
-    description: "New Mexico, 31134",
+    description: "Rahim Yar Khan, Punjab, Pakistan 64200",
   },
   {
     icon: faEnvelope,
     title: "My Email",
-    description: "mymail@mail.com",
+    description: "codewithhaamza@gmail.com",
   },
   {
     icon: faPhone,
     title: "Call Me Now",
-    description: "00-123 00000",
+    description: "+92 319 1409643",
   },
 ];
 
